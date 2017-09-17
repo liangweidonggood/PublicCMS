@@ -2,9 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4770c45-bdf2-47c2-8ffa-5759b74ffdfd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/说明.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/common/database/CmsUpgrader.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/common/database/CmsUpgrader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsCategory.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsCategory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsCategoryAttribute.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsCategoryAttribute.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsCategoryModel.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsCategoryModel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsCategoryType.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsCategoryType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsContent.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsContent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsContentAttribute.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsContentAttribute.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsContentFile.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsContentFile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsContentRelated.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsContentRelated.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsDictionary.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsDictionary.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsDictionaryData.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsDictionaryData.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsDictionaryDataId.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsDictionaryDataId.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsLottery.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsLottery.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsLotteryUser.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsLotteryUser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsLotteryUserAttribute.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsLotteryUserAttribute.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsVote.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsVote.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsVoteItem.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsVoteItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsVoteItemAttribute.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsVoteItemAttribute.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsVoteUser.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsVoteUser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsWord.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsWord.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/log/LogLogin.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/log/LogLogin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/log/LogOperate.java" afterPath="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/log/LogOperate.java" />
     </list>
     <ignored path="$PROJECT_DIR$/publiccms-parent/target/" />
     <ignored path="$PROJECT_DIR$/publiccms-parent/publiccms-common/target/" />
@@ -22,111 +41,104 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="说明.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/说明.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="198">
-                <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="SiteComponent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/site/SiteComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-990">
+              <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CmsDictionaryDataId.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsDictionaryDataId.java">
+      <file leaf-file-name="StatisticsComponent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/site/StatisticsComponent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="20" />
+            <state relative-caret-position="-638">
+              <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScheduledJob.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/task/ScheduledJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-917">
+              <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScheduledTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/task/ScheduledTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScheduledTaskComponent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/task/ScheduledTaskComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MetadataComponent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/template/MetadataComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ModelComponent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/template/ModelComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-704">
+              <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HqlDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/dao/tools/HqlDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-433">
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SqlMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/mapper/tools/SqlMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1">
+              <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetCategoryAttributeMethod.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/views/method/cms/GetCategoryAttributeMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#743#772#1" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CmsCategoryModelId.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsCategoryModelId.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CmsCategoryModel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsCategoryModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="43" column="23" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="860">
-              <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="update.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/resources/initialization/update.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="initDatabase.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/resources/initialization/initDatabase.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="install_form.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/resources/initialization/install_form.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="start.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/resources/initialization/start.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="startOk.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/resources/initialization/startOk.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -148,8 +160,29 @@
         <option value="$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/config/database-other.properties" />
         <option value="$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/language/message.properties" />
         <option value="$PROJECT_DIR$/doc/说明.md" />
-        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsDictionaryDataId.java" />
         <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsCategoryModelId.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/common/database/CmsUpgrader.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsCategory.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsCategoryAttribute.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsCategoryModel.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsCategoryType.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsContent.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsContentAttribute.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsContentFile.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsContentRelated.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsDictionary.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsDictionaryData.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsDictionaryDataId.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsLottery.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsLotteryUser.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsLotteryUserAttribute.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsVote.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsVoteItem.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsVoteItemAttribute.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsVoteUser.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsWord.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/log/LogLogin.java" />
+        <option value="$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/log/LogOperate.java" />
       </list>
     </option>
   </component>
@@ -264,254 +297,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="publiccms-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PublicCMS-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PublicCMS-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="publiccms-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="publiccms-common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PublicCMS-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PublicCMS-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="publiccms-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="publiccms-common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PublicCMS-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PublicCMS-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="publiccms-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="publiccms-common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PublicCMS-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PublicCMS-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="publiccms-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="publiccms-common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PublicCMS-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PublicCMS-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="publiccms-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="publiccms-common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="publiccms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PublicCMS-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PublicCMS-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="publiccms-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="publiccms-common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="publiccms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="entities" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PublicCMS-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PublicCMS-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="publiccms-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="publiccms-common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="publiccms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="entities" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PublicCMS-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PublicCMS-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="publiccms-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="publiccms-common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1067,7 +852,7 @@
       <workItem from="1505536384890" duration="2761000" />
       <workItem from="1505572862305" duration="1408000" />
       <workItem from="1505608746318" duration="12415000" />
-      <workItem from="1505646377201" duration="1893000" />
+      <workItem from="1505646377201" duration="5521000" />
     </task>
     <task id="LOCAL-00001" summary="注释说明">
       <created>1505648344575</created>
@@ -1080,7 +865,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18477000" />
+    <option name="totallyTimeSpent" value="22105000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1140,397 +925,415 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/config/database-template.properties">
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/log/LogLogin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/config/ehcache.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/config/freemarker.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/config/hibernate.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/config/hibernate-oracle-redis.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/config/hibernate-redis.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/config/proxy.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/config/hibernate-oracle.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/language/message.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-497">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/language/operate.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1795">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/templates/admin/cmsCategory/add.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="208" column="17" lean-forward="true" selection-start-line="208" selection-start-column="17" selection-end-line="208" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/templates/admin/cmsCategory/addMore.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/templates/admin/cmsCategory/categoryPath.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/templates/admin/cmsCategory/changeTypeParameters.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/templates/admin/cmsCategoryType/add.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/templates/admin/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1980">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/templates/admin/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/templates/admin/login_dialog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/templates/admin/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2016">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/templates/admin/menus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-990">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/templates/ftl/tools.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/templates/ftl/vars.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/templates/web/site_1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/templates/web/site_1/interface.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/language/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/cms.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/commons-logging.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/src/main/resources/simplelog.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="67" lean-forward="true" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1188">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="132">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/publiccms/README.txt">
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/log/LogOperate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        <state relative-caret-position="132">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/com/publiccms/common/generator/annotation/GeneratorColumn.java">
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/log/LogTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="24" column="7" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        <state relative-caret-position="198">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsCategory.java">
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/log/LogUpload.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2222">
-          <caret line="112" column="29" lean-forward="false" selection-start-line="112" selection-start-column="29" selection-end-line="112" selection-end-column="29" />
+        <state relative-caret-position="132">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysAppClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysAppClientId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysAppToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysCluster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysConfigData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysConfigDataId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysDept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysDeptCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysDeptCategoryId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysDeptPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysDeptPageId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysDomain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysEmailToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysExtend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysExtendFieldId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysExtendField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-924">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysMoudle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysRoleAuthorized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysRoleAuthorizedId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysRoleMoudle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysRoleMoudleId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysRoleUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysRoleUserId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysSite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/sys/SysUserToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/cache/CacheComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/Code Formatters/java.xml">
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/config/ConfigComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-3740">
+          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/Code Formatters/js.xml">
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/config/EmailTemplateConfigComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-147">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="12">
-            <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/config/LoginConfigComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/pom.xml">
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/site/ClusterComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="242" column="49" lean-forward="false" selection-start-line="242" selection-start-column="26" selection-end-line="242" selection-end-column="49" />
+        <state relative-caret-position="-1005">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/site/DirectiveComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/site/EmailComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2618">
+          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/site/FileComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-506">
+          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/site/SiteComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-990">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/site/StatisticsComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-638">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/task/ScheduledJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-917">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/task/ScheduledTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/task/ScheduledTaskComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/template/MetadataComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/component/template/ModelComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-704">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/dao/tools/HqlDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-433">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/logic/mapper/tools/SqlMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+        <state relative-caret-position="-1">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/resources/mapper/tools/xml/SqlMapper.xml">
+    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/views/method/cms/GetCategoryAttributeMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/resources/initialization/checkDataBase.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2273">
-          <caret line="114" column="55" lean-forward="true" selection-start-line="114" selection-start-column="55" selection-end-line="114" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/resources/initialization/dataBaseConfig.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/resources/initialization/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/resources/initialization/initDatabase.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/resources/initialization/install_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="175">
+          <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#743#772#1" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/resources/initialization/start.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/resources/initialization/startOk.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/resources/initialization/update.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="860">
-          <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/说明.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="198">
-            <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsDictionaryDataId.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsCategoryModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="43" column="23" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publiccms-parent/publiccms-common/src/main/java/org/publiccms/entities/cms/CmsCategoryModelId.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>

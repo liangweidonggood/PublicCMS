@@ -1,10 +1,12 @@
 package org.publiccms.common.database;
 
-import static org.publiccms.common.constants.CommonConstants.CMS_FILEPATH;
-import static org.publiccms.logic.component.site.SiteComponent.MODEL_FILE;
-import static org.publiccms.logic.component.site.SiteComponent.SITE_PATH_PREFIX;
-import static org.publiccms.logic.component.site.SiteComponent.TEMPLATE_PATH;
-import static com.publiccms.common.tools.CommonUtils.*;
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.publiccms.common.base.Base;
+import org.apache.ibatis.jdbc.ScriptRunner;
+import org.publiccms.common.constants.CmsVersion;
+import org.publiccms.views.pojo.CmsModel;
+import org.publiccms.views.pojo.ExtendField;
+
 import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
@@ -14,25 +16,16 @@ import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.Properties;
+import java.util.*;
 
-import org.apache.ibatis.jdbc.ScriptRunner;
-import org.publiccms.common.constants.CmsVersion;
-import org.publiccms.views.pojo.CmsModel;
-import org.publiccms.views.pojo.ExtendField;
-
-import com.fasterxml.jackson.core.type.TypeReference;
-import com.publiccms.common.base.Base;
+import static com.publiccms.common.tools.CommonUtils.notEmpty;
+import static org.publiccms.common.constants.CommonConstants.CMS_FILEPATH;
+import static org.publiccms.logic.component.site.SiteComponent.*;
 
 /**
  *
  * CmsUpgrader
- *
+ * org.hibernate.id.IdentityGenerator缩写identity
  */
 public class CmsUpgrader implements Base {
     /**
